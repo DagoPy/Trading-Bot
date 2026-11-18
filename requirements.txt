@@ -1,0 +1,17 @@
+ccxt
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+yfinance
+ta
+pydantic
+python-dotenv
+ollama
+fastapi
+uvicorn
+apscheduler
+pytest
+ruff
+jupyter

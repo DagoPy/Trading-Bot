@@ -1,0 +1,23 @@
+# Secretos
+.env
+
+# Entornos y cachés
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Datos y modelos (se regeneran)
+data/*.db
+data/*.csv
+outputs/dataset_ml.csv
+models/*.joblib
+
+# Frontend
+node_modules/
+web/dist/
+
+# Sistema
+.DS_Store
